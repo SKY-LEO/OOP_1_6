@@ -4,9 +4,9 @@ import com.company.professions.Driver;
 import com.company.details.Engine;
 
 public class Car {
-    public String car_brand;
-    public String class_of_car;
-    public int weight;
+    String car_brand;
+    String class_of_car;
+    int weight;
     Driver driver;
     Engine engine;
 

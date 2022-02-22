@@ -1,8 +1,8 @@
 package com.company.professions;
 
 public class Person {
-    public String fullName;
-    public int age;
+    String fullName;
+    int age;
 
     public Person() {
 

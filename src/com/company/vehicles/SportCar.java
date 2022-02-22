@@ -4,7 +4,7 @@ import com.company.details.Engine;
 import com.company.professions.Driver;
 
 public class SportCar extends Car {
-    public int max_speed;
+    int max_speed;
 
     public SportCar() {
 

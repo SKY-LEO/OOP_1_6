@@ -4,7 +4,7 @@ import com.company.details.Engine;
 import com.company.professions.Driver;
 
 public class Lorry extends Car{
-    public int load_capacity;
+    int load_capacity;
 
     public Lorry() {
 
